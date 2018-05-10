@@ -6,7 +6,7 @@ def fizzbuzz(int)
   elsif (int % == 0 && int % == 0)
     "FizzBuzz"
   else
-    
+
 
 
   end
